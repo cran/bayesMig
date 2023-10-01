@@ -1,0 +1,36 @@
+0.4-4/5/6 (09/28/2023)
+-----
+Improved documentation.
+
+0.4-3 (07/21/2023)
+-----
+Argument ignore.last.observed in mig.predict swapped for post.last.observed.
+
+Bug fixes in mig.trajectories.plot to mark the estimation data correctly.
+
+Prediction object now as an element nr.imputed.
+
+0.4-2 (07/13/2023)
+-----
+Added feature of "first.observed" column in the estimation data.
+
+Argument "mark.estimation.points" added to mig.trajectories.plot.
+
+0.4-1 (06/08/2023)
+-----
+Added features of "last.observed", start.year in the prediction and data imputation.
+
+0.3-0 (02/17/2023)
+-----
+Version supporting the use of wpp2022 annual data.
+
+New function map.ggplot.
+
+0.2-2 (07/28/2022)
+-----
+Added argument scale to mig.plot.trajectories.
+
+0.2-1 (06/03/2022)
+-----
+Initial public version
+	
